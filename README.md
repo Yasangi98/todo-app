@@ -1,3 +1,10 @@
+In this  Todo Project, 
+
+* Users can add todo tasks lists
+* Users can view all the tasks they have to complete,
+* if the task is completed then the user can just click on that task after clicking it will show as completed.
+* User can be deleted completed tasks.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
